@@ -1483,8 +1483,6 @@
   },
   "workspace": {
     "dependencies": [
-      "npm:@tauri-apps/api@^1.6.0",
-      "npm:dayjs@^1.11.12",
       "npm:tailwindcss@3.4.1"
     ]
   }
